@@ -47,7 +47,6 @@ class Main extends Component {
         ListAction.deleteList(id);
     }
 
-
     render() {
         return (
             <div>
